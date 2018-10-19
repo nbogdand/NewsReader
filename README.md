@@ -1,6 +1,6 @@
 # NewsReader
 
-This is a unique News Reader aplication which displays top business headlines in the US. Only most important and hot news  
+This is a unique News Reader application which displays top business headlines in the US. Only most important and hot news  
 
 For developing this app I implemented News API(https://newsapi.org/) which provides the data in JSON format. Articles are fetched from Internet
 using Retrofit. 
